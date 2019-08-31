@@ -1,0 +1,68 @@
+/* Headers */
+.ui-menu {
+  background-color: #FFD459 !important;
+}
+
+.header-item {
+  background-color: #002B4C !important;
+  font-size: 1.3em;
+}
+
+.header-logo {
+  color: white;
+}
+
+/* Boxoffice */
+.boxoffice-item {
+  cursor: pointer;
+}
+
+.table-head {
+  background-color: #002B4C !important;
+}
+
+.table-title {
+  color: white !important;
+}
+
+/* Search bar */
+.search-bar {
+  width: 700px;
+}
+
+/* Movie detail */
+.movie-item {
+  font-size: 1.7em;
+}
+
+.movie-segment {
+  margin: 0 auto !important;
+  margin-top: 2% !important;
+  width: 80% !important;
+}
+
+.score-segment {
+  background-color: #002B4C !important;
+}
+
+.storyline-segment {
+  background-color: #FFD459 !important;
+}
+
+.score-content {
+  font-size: 1.7em !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+/* Movie comment */
+.comment-container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* Gallery */
+.user-form {
+  margin: 0 auto !important;
+  width: 50% !important;
+}
