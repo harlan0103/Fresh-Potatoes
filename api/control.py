@@ -2,7 +2,7 @@ from flask import Flask, url_for, render_template, request, redirect, make_respo
 from flask_cors import CORS, cross_origin
 import sqlite3
 import time
-from playhouse.shortcuts import model_to_dict, dict_to_model
+#from playhouse.shortcuts import model_to_dict, dict_to_model
 
 app = Flask(__name__)
 
